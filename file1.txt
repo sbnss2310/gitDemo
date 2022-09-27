@@ -2,5 +2,11 @@
 why why why why why why GitHub Version Control System
 =======
 GitHub Version Control System
+
+GitHub is a Distributed Version Control System
 Bala
+<<<<<<< HEAD
 >>>>>>> a9757d53d65b72486b3e7c7079a4d8db0e02ea84
+=======
+
+>>>>>>> f596658d723f62882e89df076ae18f34eccca700
