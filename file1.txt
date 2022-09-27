@@ -1,5 +1,0 @@
-GitHub Version Control System
-
-GitHub is a Distributed Version Control System
-Bala
-
