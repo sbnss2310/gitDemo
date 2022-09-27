@@ -1,6 +1,2 @@
 
-<<<<<<< HEAD
-hello world bye12
-=======
 hello world bye
->>>>>>> 33ed6cd794e7422d8f91d1cf0ba25971df106203
