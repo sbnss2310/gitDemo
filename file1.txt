@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
+=======
+>>>>>>> 9ede1604e15e89040ecbc581352da216d8a1c1d9
 GitHub Version Control System
 Edited line2 
 GitHub is a Distributed Version Control System
 Bala
+<<<<<<< HEAD
+=======
 =======
 <<<<<<< HEAD
 GitHub Version Control System
@@ -19,3 +24,4 @@ Insert the lines
 
 clear this
 >>>>>>> 7739f36db8c3be85a557ae749677cb88781eb449
+>>>>>>> 5eca339239e6d68feef1826d3bb2173d46908af2
