@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 welcome to git!!!
-=======
 hello git
->>>>>>> 7f47db3e0c467070870a0d34363edfa476c9de0b
