@@ -1,2 +1,6 @@
 GitHub Version Control System
+<<<<<<< HEAD
 Git is a version control tool
+=======
+Bala
+>>>>>>> a9757d53d65b72486b3e7c7079a4d8db0e02ea84
